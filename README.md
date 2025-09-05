@@ -6,7 +6,7 @@ This project demonstrates a **risk assessment** for a fictional healthcare clini
 The goal is to identify potential threats, assess risks, and recommend security controls to improve compliance, reduce risk, and strengthen overall security posture.  
 
 ## 🗂️ Project Files
--   https://github.com/mhamadii/risk-assessment-healthcare/blob/main/Risk_Register_Healthcare_Clinic.xlsx
+Risk Register (Excel)](https://github.com/mhamadii/risk-assessment-healthcare/blob/main/Risk_Register_Healthcare_Clinic.xlsx
 -   https://github.com/mhamadii/risk-assessment-healthcare/blob/main/Healthcare_Risk_Assessment_Report.pdf
 
 ## 🛠️ Skills Demonstrated
