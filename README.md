@@ -1,6 +1,6 @@
 # Risk Assessment Report – Healthcare Clinic (NIST CSF)
 
-**At a glance:** GRC / Cybersecurity | NIST CSF | Excel, Word/PDF | Risk Register + Written Report
+
 
 ## 📌 Project Overview
 This project demonstrates a **risk assessment** for a fictional healthcare clinic (“HealthyLife Clinic”) using the **NIST Cybersecurity Framework (CSF)**.  
