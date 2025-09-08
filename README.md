@@ -10,8 +10,6 @@ The goal is to identify threats, assess risks, and recommend controls to reduce 
 - 📊 **[Risk Register (Excel)](https://github.com/mhamadii/risk-assessment-healthcare/blob/main/Risk_Register_Healthcare_Clinic.xlsx)**
 - 📄 **[Risk Assessment Report (PDF)](https://github.com/mhamadii/risk-assessment-healthcare/blob/main/Healthcare_Risk_Assessment_Report.pdf)**
 
-> Tip: In GitHub, open the file and choose **Download** (top-right) for best viewing.
-
 ## 🧭 Method (NIST CSF)
 Identify assets → list threats/vulnerabilities → score **Impact** & **Likelihood** (H/M/L) → compute Risk Score → map to **Identify/Protect/Detect/Respond/Recover** → recommend controls.
 
