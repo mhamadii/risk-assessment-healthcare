@@ -1,4 +1,4 @@
-# Risk Assessment Report – Healthcare Clinic (NIST CSF)
+Risk Assessment Report – Healthcare Clinic (NIST CSF)
 
 
 
